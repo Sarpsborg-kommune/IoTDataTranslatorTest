@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "iotrouter_test": {
+      "commandName": "Project",
+      "commandLineArgs": "0100c9022704000005000601e4070e59"
+    }
+  }
+}
